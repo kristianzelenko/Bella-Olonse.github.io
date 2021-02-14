@@ -782,6 +782,11 @@ button{
         display: none;
     }
 }
+@media screen and (max-width:414px){
+	.phone{
+        margin-top: 95px !important;
+}
+}
 
 /*FAQ*/
 .faq{
